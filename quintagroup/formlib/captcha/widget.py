@@ -2,7 +2,12 @@ from Products.statusmessages.interfaces import IStatusMessage
 
 import urllib2
 import urllib
-import simplejson as json
+
+try:
+    import json
+except:
+    import simplejson as json
+
 try:
     from zope.site.hooks import getSite
     getSite()
