@@ -1,6 +1,12 @@
 Changelog
 =========
 
+2.0.0 (UNRELEASED)
+----------------------
+
+* Implement Google Recaptcha V2
+  [erral
+
 1.4.3 (2014-06-11)
 ----------------------
 
