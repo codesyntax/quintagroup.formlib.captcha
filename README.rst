@@ -46,4 +46,4 @@ Authors
 
 Copyright (c) "Quintagroup": http://quintagroup.com, 2004-2017
 
-.. _`Google Recaptcha`_: https://www.google.com/recaptcha/admin
+.. _`Google Recaptcha`: https://www.google.com/recaptcha/admin

@@ -7,7 +7,7 @@ setup(name='quintagroup.formlib.captcha',
       version=version,
       description="Captcha field for formlib based on "
                   "quintagroup.captcha.core package",
-      long_description=open("README.txt").read() + "\n" +
+      long_description=open("README.rst").read() + "\n" +
       open(os.path.join("docs", "HISTORY.txt")).read(),
       classifiers=[
           "Development Status :: 5 - Production/Stable",
